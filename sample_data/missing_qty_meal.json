@@ -1,0 +1,30 @@
+{
+  "patient_id": "PT-002",
+  "date": "2026-11-20",
+  "meals": [
+    {
+      "meal": "breakfast",
+      "items": [
+        { "food": "egg", "quantity_g": 100 },
+        { "food": "bread", "quantity_g": 60 },
+        { "food": "orange", "quantity_g": null }
+      ]
+    },
+    {
+      "meal": "lunch",
+      "items": [
+        { "food": "tuna", "quantity_g": null },
+        { "food": "white rice", "quantity_g": 200 },
+        { "food": "carrot", "quantity_g": 80 }
+      ]
+    },
+    {
+      "meal": "dinner",
+      "items": [
+        { "food": "chicken breast", "quantity_g": 150 },
+        { "food": "sweet potato", "quantity_g": 180 },
+        { "food": "spinach", "quantity_g": 70 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "patient_id": "PT-001",
+  "date": "2026-11-20",
+  "meals": [
+    {
+      "meal": "breakfast",
+      "items": [
+        { "food": "oatmeal", "quantity_g": 150 },
+        { "food": "banana", "quantity_g": 120 },
+        { "food": "whole milk", "quantity_g": 200 }
+      ]
+    },
+    {
+      "meal": "lunch",
+      "items": [
+        { "food": "chicken breast", "quantity_g": 180 },
+        { "food": "brown rice", "quantity_g": 200 },
+        { "food": "broccoli", "quantity_g": 100 },
+        { "food": "olive oil", "quantity_g": 10 }
+      ]
+    },
+    {
+      "meal": "dinner",
+      "items": [
+        { "food": "salmon", "quantity_g": 150 },
+        { "food": "sweet potato", "quantity_g": 200 },
+        { "food": "spinach", "quantity_g": 80 }
+      ]
+    },
+    {
+      "meal": "snack",
+      "items": [
+        { "food": "greek yogurt", "quantity_g": 150 },
+        { "food": "almonds", "quantity_g": 30 }
+      ]
+    }
+  ]
+}
